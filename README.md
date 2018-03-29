@@ -1,0 +1,2 @@
+# Powerdns-authoritative
+Split horizon
